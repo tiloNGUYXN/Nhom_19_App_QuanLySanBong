@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Đặt Sân Bóng Đá</string>
+
+    <string name="login">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="confirm_password">Xác nhận mật khẩu</string>
+    <string name="full_name">Họ và tên</string>
+    <string name="phone">Số điện thoại</string>
+    <string name="back">Quay lại</string>
+    <string name="welcome">Xin chào, %s!</string>
+    <string name="welcome_admin">Xin chào, Quản trị viên!</string>
+    <string name="view_fields">Xem danh sách sân</string>
+    <string name="booking_history">Lịch sử đặt sân</string>
+    <string name="notifications">Thông báo</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="manage_fields">Quản lý sân</string>
+    <string name="view_bookings">Xem đơn đặt sân</string>
+    <string name="football_fields">Danh sách sân bóng</string>
+    <string name="filter_by">Lọc theo:</string>
+    <string name="book_field">Đặt sân</string>
+    <string name="field_details">Thông tin sân</string>
+    <string name="field_type">Loại sân</string>
+    <string name="field_price">Giá:</string>
+    <string name="date_and_time">Ngày và giờ</string>
+    <string name="date">Ngày:</string>
+    <string name="select_date">Chọn ngày</string>
+    <string name="start_time">Giờ bắt đầu:</string>
+    <string name="end_time">Giờ kết thúc:</string>
+    <string name="select_time">Chọn giờ</string>
+    <string name="additional_services">Dịch vụ bổ sung</string>
+    <string name="total_price">Tổng tiền:</string>
+    <string name="book_now">Đặt ngay</string>
+    <string name="booking_history_title">Lịch sử đặt sân</string>
+    <string name="time">Giờ:</string>
+    <string name="services">Dịch vụ:</string>
+    <string name="no_services">Không có dịch vụ bổ sung</string>
+    <string name="total">Tổng:</string>
+    <string name="notifications_title">Thông báo</string>
+    <string name="manage_fields_title">Quản lý sân bóng</string>
+    <string name="add_new_field">Thêm sân mới</string>
+    <string name="add_edit_field">Thêm/Sửa sân</string>
+    <string name="field_name">Tên sân</string>
+    <string name="price">Giá (VNĐ)</string>
+    <string name="description">Mô tả</string>
+    <string name="save">Lưu</string>
+    <string name="all_bookings">Tất cả đơn đặt sân</string>
+    <string name="edit">Sửa</string>
+    <string name="set_maintenance">Bảo trì</string>
+    <string name="end_maintenance">Đã bảo trì</string>
+    <string name="start">Bắt đầu</string>
+    <string name="break_time">Giải lao</string>
+    <string name="end">Kết thúc</string>
+    <string name="field_booked">Đã đặt</string>
+
+    <string-array name="field_types">
+        <item>Tất cả sân</item>
+        <item>Sân 5</item>
+        <item>Sân 7</item>
+        <item>Sân 11</item>
+    </string-array>
+
+    <string-array name="field_types_values">
+        <item>Sân 5</item>
+        <item>Sân 7</item>
+        <item>Sân 11</item>
+    </string-array>
+
+    <string name="status_available">Trống</string>
+    <string name="status_booked">Đã đặt</string>
+    <string name="status_maintenance">Đang bảo trì</string>
+    <string name="status_unknown">Không xác định</string>
+
+    <string name="status_not_played">Chưa đá</string>
+    <string name="status_playing">Đang đá</string>
+    <string name="status_break">Đang nghỉ</string>
+    <string name="status_played">Đã đá</string>
+</resources>
